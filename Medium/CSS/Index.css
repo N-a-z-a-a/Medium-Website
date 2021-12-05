@@ -165,8 +165,7 @@ div.second-row {
 /* third section */
 section.third-section {
   padding-top: 70px;
-  /* for extra space to see your work */
-  margin-bottom: 100px;
+  padding-bottom: 50px;
 }
 
 span.nit {
